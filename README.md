@@ -1,1 +1,1 @@
-These are my mulitithread exercises.
+These are my multithread exercises.
